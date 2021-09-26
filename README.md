@@ -1,2 +1,2 @@
-# car Prediction using Python
+# CAR Prediction using Python
 
